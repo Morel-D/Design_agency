@@ -1,0 +1,10 @@
+@media (min-width: 768px)
+{
+    .signInput {
+        width: 50%;
+    }
+}
+
+.icon {
+    color: rgb(251, 101, 101);
+}
